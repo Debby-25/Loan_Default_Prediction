@@ -1,1 +1,6 @@
 streamlit 
+streamlit
+joblib
+scikit-learn  # If your model was trained using scikit-learn
+pandas
+numpy
